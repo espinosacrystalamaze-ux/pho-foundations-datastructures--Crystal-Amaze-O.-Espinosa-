@@ -1,4 +1,5 @@
 Project purpose
+
 My project is about making the library work better. It will help keep track of books and people easily, so the library can run faster and be more organized.
 
 
@@ -20,8 +21,9 @@ recursion.php
 hashtable.php
 bst.php
 
-
 ![image](https://github.com/user-attachments/assets/a6f50dfe-8126-46e4-85d5-fc128afe4bb6)
+
+![image](https://github.com/user-attachments/assets/210982c6-2c09-44b1-9e61-d6096b080620)
 
 
 
